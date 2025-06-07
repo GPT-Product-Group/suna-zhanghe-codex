@@ -176,6 +176,8 @@ OPENAI_API_KEY=your_openai_api_key
 TAVILY_API_KEY=your_tavily_api_key  # For enhanced search capabilities
 FIRECRAWL_API_KEY=your_firecrawl_api_key  # For web scraping capabilities
 RAPID_API_KEY=
+DIFY_API_KEY=
+DIFY_CHATFLOW_URL=
 ```
 
 3. **Set up Supabase database**:
